@@ -3,9 +3,11 @@ Practice Case SQL Data Fellowship 2020 IYKRA
 
 The are seven problems using SQL queries to answer which discussed here :
 1. A customer wants to know the films about “astronaut”. How many recommendations could you give for him?
-| Astronaut Movie | AA Movie |
-| --- | --- |
-| 78 | 79 |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 2. How many films have a rating of “R” and a replacement cost between 5 USD and 15 USD?
 3. We have two staff members with staff IDs 1 and 2. We want to give a bonus to the staff member that handled the most payments. How many payments did each staff member handle? And how much was the total amount processed by each staff member?
